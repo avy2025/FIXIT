@@ -1,7 +1,7 @@
 FIXIT 🔧
 
 FIXIT is a simple web-based project built using HTML, CSS, and JavaScript.
-The idea behind this project is to design a basic service-booking style platform where users and admins can log in, explore services, and manage bookings through a clean UI.
+The idea behind this project is to design a basic service-booking style platform where users and admins can log in, explore services, and manage bookings through a clean UI and UX.
 
 This project mainly focuses on frontend development, UI flow, and page navigation.
 
